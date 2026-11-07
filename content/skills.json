@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "label": "Design",
+      "tags": [
+        { "name": "Figma", "note": "Interface design and prototyping", "related": ["uiux-design"] },
+        { "name": "Wireframing", "note": "Clear user flows", "related": ["uiux-design"] },
+        { "name": "UX writing", "note": "Plain-language product clarity", "related": ["uiux-design"] }
+      ]
+    },
+    {
+      "label": "Frontend",
+      "tags": [
+        { "name": "TypeScript", "note": "Typed, maintainable interfaces", "related": ["frontend-development"] },
+        { "name": "Next.js", "note": "Modern frontend delivery", "related": ["frontend-development"] },
+        { "name": "Tailwind", "note": "Fast UI composition and styling", "related": ["frontend-development"] }
+      ]
+    },
+    {
+      "label": "Visa & Docs",
+      "tags": [
+        { "name": "Visa workflow", "note": "Case handling and process flow", "related": ["visa-processing"] },
+        { "name": "Document review", "note": "Checklist and verification support", "related": ["visa-processing", "nid-correction"] },
+        { "name": "NID support", "note": "Correction guidance and form readiness", "related": ["nid-correction"] }
+      ]
+    },
+    {
+      "label": "Civil & General",
+      "tags": [
+        { "name": "Civil engineering", "note": "Measurement, discipline, and process", "related": ["technical-support"] },
+        { "name": "Technical support", "note": "Desktop and digital troubleshooting", "related": ["technical-support"] },
+        { "name": "Problem solving", "note": "Clear thinking across technical tasks", "related": ["visa-processing", "frontend-development"] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "work": [
+    {
+      "title": "Developer at a visa agency",
+      "date": "Current",
+      "detail": "Processing and coordinating visa-related documentation and digital support for multiple country requirements.",
+      "todo": true
+    },
+    {
+      "title": "Civil engineering internship",
+      "date": "Past",
+      "detail": "Hands-on experience with discipline, measurement, drafting logic, and structured problem-solving.",
+      "todo": true
+    }
+  ],
+  "education": [
+    {
+      "title": "Graduate Diploma in Civil Engineering",
+      "date": "Sylhet Polytechnic Institute",
+      "detail": "Foundation in drafting, technical reasoning, and structured execution.",
+      "todo": false
+    }
+  ]
+}

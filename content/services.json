@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "visa-processing",
+      "title": "Visa Processing",
+      "summary": "Document preparation, filing support, and tracking across multiple destination requirements.",
+      "bullets": [
+        "Country-specific checklist review",
+        "Document formatting and verification",
+        "Submission coordination and follow-up"
+      ],
+      "whatsappText": "Hello Suvodip, I want to discuss visa processing support."
+    },
+    {
+      "id": "nid-correction",
+      "title": "NID Correction",
+      "summary": "Careful corrections and document preparation with a focus on accuracy and clarity.",
+      "bullets": [
+        "NID error review and correction support",
+        "Document-ready guidance",
+        "Clear next-step communication"
+      ],
+      "whatsappText": "Hello Suvodip, I need help with NID correction support."
+    },
+    {
+      "id": "uiux-design",
+      "title": "UI/UX Design",
+      "summary": "Interfaces that help users move confidently from form to action without friction.",
+      "bullets": [
+        "User flows and wireframes",
+        "High-fidelity interface design in Figma",
+        "Design systems and prototype thinking"
+      ],
+      "whatsappText": "Hello Suvodip, I want to discuss a UI/UX design project."
+    },
+    {
+      "id": "frontend-development",
+      "title": "Frontend Development",
+      "summary": "Responsive interface implementation built for clarity, speed, and maintainability.",
+      "bullets": [
+        "Responsive landing pages and product UI",
+        "Clean HTML, CSS, and component-driven code",
+        "Collaborative frontend implementation"
+      ],
+      "whatsappText": "Hello Suvodip, I need a frontend developer for my project."
+    },
+    {
+      "id": "technical-support",
+      "title": "Computer & Technical Support",
+      "summary": "Practical help for desktops, documents, forms, and everyday digital tasks.",
+      "bullets": [
+        "General computer assistance",
+        "Document and file workflow support",
+        "Technical troubleshooting and guidance"
+      ],
+      "whatsappText": "Hello Suvodip, I need technical support and computer assistance."
+    }
+  ]
+}

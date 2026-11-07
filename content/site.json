@@ -1,0 +1,19 @@
+{
+  "nav": [
+    "About",
+    "Services",
+    "Process",
+    "Skills",
+    "Work",
+    "Experience",
+    "Contact"
+  ],
+  "seo": {
+    "title": "Suvodip Chandra Ankon | Visa processing, UI/UX, and frontend work",
+    "description": "Portfolio of Suvodip Chandra Ankon: visa-processing professional, UI/UX designer, and frontend developer based in Sylhet, Bangladesh.",
+    "canonical": "https://example.com"
+  },
+  "theme": {
+    "defaultMode": "light"
+  }
+}

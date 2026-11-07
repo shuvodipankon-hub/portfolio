@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "portfolio",
+      "title": "This portfolio",
+      "year": "2026",
+      "role": "Brand + UI + Frontend",
+      "tools": ["Next.js", "Figma", "TypeScript", "CSS"],
+      "cover": "/images/portrait.png",
+      "summary": "A personal brand site shaped around blueprint logic, document trust, and a restrained editorial aesthetic.",
+      "body": [
+        "This site was designed as a working portfolio case study: it carries the same principles I use in visa support and design work — clarity, trust, and deliberate structure.",
+        "The visual system mixes engineering drafting cues with travel-document details, so the result feels composed rather than generic."
+      ],
+      "todo": false
+    },
+    {
+      "id": "design-system",
+      "title": "Figma concept",
+      "year": "2026",
+      "role": "UI exploration",
+      "tools": ["Figma", "UX research", "Design systems"],
+      "cover": "/images/portrait.png",
+      "summary": "A placeholder case study for future client work and product design experiments.",
+      "body": [
+        "This case study is intentionally marked as a placeholder. The owner can replace it with a real project later.",
+        "The goal is to keep the structure ready while preserving the requirement that no fabricated client work is added."
+      ],
+      "todo": true
+    },
+    {
+      "id": "visa-ui",
+      "title": "Visa service dashboard",
+      "year": "2025",
+      "role": "UX + prototype",
+      "tools": ["Figma", "Flows", "Prototyping"],
+      "cover": "/images/portrait.png",
+      "summary": "A placeholder project sheet for a document-tracking or visa application interface concept.",
+      "body": [
+        "Placeholder content only. Add a real case study when the owner has approved the details.",
+        "The page structure is already built to support a deep-dive project layout with no code changes required."
+      ],
+      "todo": true
+    }
+  ]
+}
